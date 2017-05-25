@@ -1,0 +1,15 @@
+/Users/arunpurang/Projects/TestGallary/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/arunpurang/Projects/TestGallary/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/arunpurang/Projects/TestGallary/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
+/Users/arunpurang/Projects/TestGallary/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/arunpurang/Projects/TestGallary/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
+/Users/arunpurang/Projects/TestGallary/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/arunpurang/Projects/TestGallary/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/arunpurang/Projects/TestGallary/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/arunpurang/Projects/TestGallary/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/arunpurang/Projects/TestGallary/iOS/bin/iPhoneSimulator/Debug/TestGallary.dll
+/Users/arunpurang/Projects/TestGallary/iOS/bin/iPhoneSimulator/Debug/TestGallary.pdb
+/Users/arunpurang/Projects/TestGallary/iOS/bin/iPhoneSimulator/Debug/TestGallary.iOS.pdb
+/Users/arunpurang/Projects/TestGallary/iOS/bin/iPhoneSimulator/Debug/TestGallary.iOS.exe
+/Users/arunpurang/Projects/TestGallary/iOS/obj/iPhoneSimulator/Debug/TestGallary.iOS.exe
+/Users/arunpurang/Projects/TestGallary/iOS/obj/iPhoneSimulator/Debug/TestGallary.iOS.pdb

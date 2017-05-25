@@ -1,0 +1,12 @@
+/Users/arunpurang/Projects/TestGallary/TestGallary/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/arunpurang/Projects/TestGallary/TestGallary/obj/Debug/TestGallary.App.xaml
+/Users/arunpurang/Projects/TestGallary/TestGallary/obj/Debug/TestGallary.TestGallaryPage.xaml
+/Users/arunpurang/Projects/TestGallary/TestGallary/obj/Debug/TestGallary.App.xaml.g.cs
+/Users/arunpurang/Projects/TestGallary/TestGallary/obj/Debug/TestGallary.TestGallaryPage.xaml.g.cs
+/Users/arunpurang/Projects/TestGallary/TestGallary/bin/Debug/TestGallary.pdb
+/Users/arunpurang/Projects/TestGallary/TestGallary/bin/Debug/TestGallary.dll
+/Users/arunpurang/Projects/TestGallary/TestGallary/obj/Debug/TestGallary.dll
+/Users/arunpurang/Projects/TestGallary/TestGallary/obj/Debug/TestGallary.pdb
+/Users/arunpurang/Projects/TestGallary/TestGallary/bin/Debug/Xamarin.Forms.Core.dll
+/Users/arunpurang/Projects/TestGallary/TestGallary/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/arunpurang/Projects/TestGallary/TestGallary/bin/Debug/Xamarin.Forms.Xaml.dll

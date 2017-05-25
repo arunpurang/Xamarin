@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{B21D41C8-1019-4B24-BE7D-4C85BE73C357}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestGallary/App.xaml">
+    <Files>
+      <File FileName="TestGallary/App.xaml" Line="1" Column="1" />
+      <File FileName="TestGallary/TestGallaryPage.xaml" Line="1" Column="1" />
+      <File FileName="TestGallary/TestGallaryPage.xaml.cs" Line="9" Column="16" />
+      <File FileName="TestGallary/OpenGallary.cs" Line="8" Column="19" />
+      <File FileName="iOS/OpenGallary_IOS.cs" Line="27" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/arunpurang/Projects/TestGallary/iOS/OpenGallary_IOS.cs" relfile="iOS/OpenGallary_IOS.cs" line="30" column="1" />
+      <Breakpoint file="/Users/arunpurang/Projects/TestGallary/iOS/OpenGallary_IOS.cs" relfile="iOS/OpenGallary_IOS.cs" line="22" column="11" />
+      <Breakpoint file="/Users/arunpurang/Projects/TestGallary/iOS/OpenGallary_IOS.cs" relfile="iOS/OpenGallary_IOS.cs" line="27" column="5" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../asarris/octagon5app3.1/octagon5app/Octagon5App/View/DashBoard/SpendDoc/SpendList.xaml.cs" line="35" offsetX="284" offsetY="510" expression="e" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TestGallary.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E2BE3D3A-78A7-4B20-B052-98A1A366F262" />
+</Properties>
